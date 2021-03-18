@@ -43,6 +43,7 @@
 
 Si desea probar la app localmente haga:
 
+- tenga en cuenta usar extension para los CORS como CORS Ublock (para navegador edge) o CORS EveryWhere (para firefox)
 - clone el repositorio
 - ingrese a la carpte FRONT
 - ejecute ```npm install```
